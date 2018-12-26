@@ -15,3 +15,14 @@
   - 프로젝트는 [list](https://github.com/BD-SEARCH/MLtutorial/wiki/%ED%95%B4%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4)에서 선택
 - 대회 / 논문 variation / 기타
 - 기록 열심열심
+
+# Project
+|#|기간|주제|
+|:---|:---:|:---:|
+|1|190101~?|AI challenge|
+
+# 정기 발표
+|#|월|주제|발표자|
+|:---|:---:|:---:|:---:|
+|1|27JAN 2019|~|소영|
+|1|27JAN 2019|~|원태|
