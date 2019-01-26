@@ -23,9 +23,10 @@
 |:---|:---:|:---:|:---:|
 |1|181116~181214|[AI-NLPchallenge 참가](https://github.com/BD-SEARCH/nsml_NLPchallenge)|자연어처리|
 |2|190101~190122|[AI-VISIONchallenge 참가](https://github.com/BD-SEARCH/nsml_VISIONchallenge)|비전|
+|3|190126~|[코-리안 수능 영어에서는 울프람보다는 똑똑한 AI](https://github.com/BD-SEARCH/CSAT-english)|자연어처리|
 
 # 정기 발표 
 |#|월|주제|분류|발표자|
 |:---|:---:|:---:|:---:|:---:|
 |1|2019Jan|[Tokenize, MLE](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/S\)%20tokenize%2C%20MLE)|자연어처리|소영|
-|1|2019Jan|~||원태|
+|1|2019Jan|[Sent2Vec](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/W\)%20Sent2Vec)|자연어처리|원태|
