@@ -21,7 +21,7 @@
 # Project
 |#|기간|주제|분류|
 |:---|:---:|:---:|:---:|
-|1|?~181214|[AI-NLPchallenge 참가](https://github.com/BD-SEARCH/nsml_NLPchallenge)|자연어처리|
+|1|181116~181214|[AI-NLPchallenge 참가](https://github.com/BD-SEARCH/nsml_NLPchallenge)|자연어처리|
 |2|190101~190122|[AI-VISIONchallenge 참가](https://github.com/BD-SEARCH/nsml_VISIONchallenge)|비전|
 
 # 정기 발표 
