@@ -27,5 +27,5 @@
 # 정기 발표 
 |#|월|주제|분류|발표자|
 |:---|:---:|:---:|:---:|:---:|
-|1|2019Jan|[Natural Language Processing with Python 01](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/S\)Natural%20Language%20Processing%2001)|자연어처리|소영|
+|1|2019Jan|[Tokenize, MLE](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/S\)%20tokenize%2C%20MLE)|자연어처리|소영|
 |1|2019Jan|~||원태|
