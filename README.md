@@ -18,12 +18,21 @@
 - 대회 / 논문 variation / 기타
 - 최소 주 1회를 목표로 하며, 시간이 여의치 않을 경우 발표를 우선으로 한다.
 
+## 논문 Summary
+
+- [논문 Wiki](https://github.com/BD-SEARCH/Study2019/wiki)
+
+- 스터디에 오기 전마다 가볍게 논문을 정리해서 올린다.
+- 구체적인 구현 방법보다는 그 논문이 할 수 있는 일과 결과를 중심으로 요약한다.
+- 다섯 문장 안쪽으로 정리한다.
+
 # Project
 |#|기간|주제|분류|
 |:---|:---:|:---:|:---:|
 |1|181116~181214|[AI-NLPchallenge 참가](https://github.com/BD-SEARCH/nsml_NLPchallenge)|자연어처리|
 |2|190101~190122|[AI-VISIONchallenge 참가](https://github.com/BD-SEARCH/nsml_VISIONchallenge)|비전|
 |3|190126~|[코-리안 수능 영어에서는 울프람보다는 똑똑한 AI](https://github.com/BD-SEARCH/CSAT-english)|자연어처리|
+
 
 # 정기 발표 
 |#|월|주제|분류|발표자|
