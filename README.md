@@ -40,4 +40,5 @@
 |#|월|주제|분류|발표자|
 |:---|:---:|:---:|:---:|:---:|
 |1|2019Jan|[Tokenize, MLE](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/S\)%20tokenize%2C%20MLE)|자연어처리|소영|
-|1|2019Jan|[Sent2Vec](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/W\)%20Sent2Vec)|자연어처리|원태|
+|2|2019Jan|[Sent2Vec](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/W\)%20Sent2Vec)|자연어처리|원태|
+|3|2019Feb|zero shot classification|비젼|소영|
