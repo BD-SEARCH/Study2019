@@ -41,5 +41,5 @@
 |:---|:---:|:---:|:---:|:---:|
 |1|2019Jan|[Tokenize, MLE](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/S\)%20tokenize%2C%20MLE)|자연어처리|소영|
 |2|2019Jan|[Sent2Vec](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/W\)%20Sent2Vec)|자연어처리|원태|
-|3|2019Feb|[zero shot classification](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/02.2019Feb/S)%20zero%20shot%20classification)|비젼|소영|
-|4|2019Feb|[Attention Model](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/02.2019Feb/W)%20Attention%20Model)|자연어처리|원태|
+|3|2019Feb|[zero shot classification](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/02.2019Feb/S\)%20zero%20shot%20classification)|비젼|소영|
+|4|2019Feb|[Attention Model](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/02.2019Feb/W\)%20Attention%20Model)|자연어처리|원태|
