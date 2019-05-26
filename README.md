@@ -47,5 +47,5 @@
 |4|2019Mar|[Structure-Preserving Image-Text Embeddings](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/03.2019Mar/W\)%20Structure-Preserving%20Image-Text%20Embeddings)|비전&자연어처리|원태|
 |5|2019Apr|[FastText](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/S\)%20FastText.pdf)|자연어처리|소영|
 |6|2019Apr|[CNN model에서 transformation하면 왜 acc이 떨어지는가](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/W\)%20CNN%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%ED%95%9C%EA%B3%84.pdf)|비젼|원태|
-|7|2019May|[Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/S)%20Exploring%20Randomly%20Wired%20Neural%20Networks%20for%20Image%20Recognition.pdf)|비젼|소영|
-|8|2019May|[Consistent Comic Colorization with Pixel-wise Background Classification](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019May/W\)%20Consistent%20Comic%20Colorization%20with%20Pixel-wise%20Background%20Classification.pdf)|비젼|원태|
+|7|2019May|[Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/S\)%20Exploring%20Randomly%20Wired%20Neural%20Networks%20for%20Image%20Recognition.pdf)|비젼|소영|
+|8|2019May|[Consistent Comic Colorization with Pixel-wise Background Classification](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/W\)%20Consistent%20Comic%20Colorization%20with%20Pixel-wise%20Background%20Classification.pdf)|비젼|원태|
