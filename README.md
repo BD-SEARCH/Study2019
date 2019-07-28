@@ -45,7 +45,7 @@
 |4|.|[Attention Model](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/02.2019Feb/W\)%20Attention%20Model)|NLP|원태|
 |5|? 2016|[Adversarial training methods for semi-supervised text classification](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/03.2019Mar/S\)%20Adversarial%20training%20methods%20for%20semi-supervised%20text%20classification)|NLP|소영|
 |6|IEEE2018|[Learning deep Structure-Preserving Image-Text Embeddings](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/03.2019Mar/W\)%20Structure-Preserving%20Image-Text%20Embeddings)|비전&NLP|원태|
-|7|.|[FastText](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/S\)%20FastText.pdf)|자연어처리|소영|
+|7|.|[FastText](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/S\)%20FastText.pdf)|NLP|소영|
 |8|IEEE2016|[Learning deep structure-preserving image-text embeddings](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/W\)%20CNN%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%ED%95%9C%EA%B3%84.pdf)|비젼|원태|
 |9|April2019|[Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/S\)%20Exploring%20Randomly%20Wired%20Neural%20Networks%20for%20Image%20Recognition.pdf)|비젼|소영|
 |10|NIPS2018|[Consistent Comic Colorization with Pixel-wise Background Classification](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/W\)%20Consistent%20Comic%20Colorization%20with%20Pixel-wise%20Background%20Classification.pdf)|비젼|원태|
