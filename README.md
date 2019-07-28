@@ -39,15 +39,15 @@
 # 정기 발표 
 |#|월|주제|분류|발표자|
 |:---|:---:|:---:|:---:|:---:|
-|1|2019Jan|[Tokenize, MLE](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/S\)%20tokenize%2C%20MLE)|자연어처리|소영|
-|2|2019Jan|[Sent2Vec](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/W\)%20Sent2Vec)|자연어처리|원태|
+|1|2019Jan|[Tokenize, MLE](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/S\)%20tokenize%2C%20MLE)|NLP|소영|
+|2|2019Jan|[Sent2Vec](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/01.2019Jan/W\)%20Sent2Vec)|NLP|원태|
 |3|2019Feb|[zero shot classification](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/02.2019Feb/S\)%20zero%20shot%20classification)|비젼|소영|
-|4|2019Feb|[Attention Model](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/02.2019Feb/W\)%20Attention%20Model)|자연어처리|원태|
-|3|2019Mar|[Adversarial training methods for semi-supervised text classification](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/03.2019Mar/S\)%20Adversarial%20training%20methods%20for%20semi-supervised%20text%20classification)|자연어처리|소영|
-|4|2019Mar|[Structure-Preserving Image-Text Embeddings](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/03.2019Mar/W\)%20Structure-Preserving%20Image-Text%20Embeddings)|비전&자연어처리|원태|
-|5|2019Apr|[FastText](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/S\)%20FastText.pdf)|자연어처리|소영|
-|6|2019Apr|[CNN model에서 transformation하면 왜 acc이 떨어지는가](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/W\)%20CNN%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%ED%95%9C%EA%B3%84.pdf)|비젼|원태|
-|7|2019May|[Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/S\)%20Exploring%20Randomly%20Wired%20Neural%20Networks%20for%20Image%20Recognition.pdf)|비젼|소영|
-|8|2019May|[Consistent Comic Colorization with Pixel-wise Background Classification](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/W\)%20Consistent%20Comic%20Colorization%20with%20Pixel-wise%20Background%20Classification.pdf)|비젼|원태|
+|4|2019Feb|[Attention Model](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/02.2019Feb/W\)%20Attention%20Model)|NLP|원태|
+|5|2019Mar|[Adversarial training methods for semi-supervised text classification](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/03.2019Mar/S\)%20Adversarial%20training%20methods%20for%20semi-supervised%20text%20classification)|NLP|소영|
+|6|2019Mar|[Structure-Preserving Image-Text Embeddings](https://github.com/BD-SEARCH/Study2019/tree/master/presentation/03.2019Mar/W\)%20Structure-Preserving%20Image-Text%20Embeddings)|비전&NLP|원태|
+|7|2019Apr|[FastText](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/S\)%20FastText.pdf)|자연어처리|소영|
+|8|2019Apr|[CNN model에서 transformation하면 왜 acc이 떨어지는가](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/04.2019Apr/W\)%20CNN%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%ED%95%9C%EA%B3%84.pdf)|비젼|원태|
+|9|2019May|[Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/S\)%20Exploring%20Randomly%20Wired%20Neural%20Networks%20for%20Image%20Recognition.pdf)|비젼|소영|
+|10|2019May|[Consistent Comic Colorization with Pixel-wise Background Classification](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/W\)%20Consistent%20Comic%20Colorization%20with%20Pixel-wise%20Background%20Classification.pdf)|비젼|원태|
 |9|2019Jul|[Photo Wake-up: 3D Character Animation From a Single Photo](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/06.2019Jul/S\)%20Photo%20wake-up.pdf)|비젼|소영|
 |10|2019Jul|[Image Localization with Weakly Supervised Learning](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/06.2019Jul/W\)%20Image%20Localization\20with\20Weakly\20Supervised\20Learning.pdf)|비젼|소영|
