@@ -52,4 +52,4 @@
 |11|IEEE2018|[Photo Wake-up: 3D Character Animation From a Single Photo](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/06.2019Jul/S\)%20Photo%20wake-up.pdf)|비젼|소영|
 |12|ECCV2019|[Image Localization with Weakly Supervised Learning](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/06.2019Jul/W\)%20Image%20Localization\20with\20Weakly\20Supervised\20Learning.pdf)|비젼|원태|
 |13|CVPR2019|[Lightweight Network Architecture  for Real-Time Action Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/07.2019Aug/S\)%20Lightweight%20Network%20Architecture%20%20for%20Real\-Time%20Action%20Recognition%20.pptx)|비젼|소영|
-|14|ICLR2019|[Adversarial Neural Trees](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/07.2019Aug/W\)%20Adversarial%20Neural%20Trees.pdf)||원태|
+|14|ICLR2019|[Adversarial Neural Trees](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/07.2019Aug/W\)%20Adversarial%20Neural%20Trees.pdf)|NLP|원태|
