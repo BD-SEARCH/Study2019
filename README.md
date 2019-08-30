@@ -50,4 +50,6 @@
 |9|April2019|[Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/S\)%20Exploring%20Randomly%20Wired%20Neural%20Networks%20for%20Image%20Recognition.pdf)|비젼|소영|
 |10|NIPS2018|[Consistent Comic Colorization with Pixel-wise Background Classification](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/05.2019May/W\)%20Consistent%20Comic%20Colorization%20with%20Pixel-wise%20Background%20Classification.pdf)|비젼|원태|
 |11|IEEE2018|[Photo Wake-up: 3D Character Animation From a Single Photo](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/06.2019Jul/S\)%20Photo%20wake-up.pdf)|비젼|소영|
-|12|ECCV2019|[Image Localization with Weakly Supervised Learning](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/06.2019Jul/W\)%20Image%20Localization\20with\20Weakly\20Supervised\20Learning.pdf)|비젼|소영|
+|12|ECCV2019|[Image Localization with Weakly Supervised Learning](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/06.2019Jul/W\)%20Image%20Localization\20with\20Weakly\20Supervised\20Learning.pdf)|비젼|원태|
+|13|CVPR2019|[Lightweight Network Architecture  for Real-Time Action Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/07.2019Aug/S\)%20Lightweight%20Network%20Architecture%20%20for%20Real\-Time%20Action%20Recognition%20.pptx)|비젼|소영|
+|14|.|.|.|원태|
