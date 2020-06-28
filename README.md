@@ -53,3 +53,5 @@
 |12|ECCV2019|[Image Localization with Weakly Supervised Learning](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/06.2019Jul/W\)%20Image%20Localization\20with\20Weakly\20Supervised\20Learning.pdf)|비젼|원태|
 |13|CVPR2019|[Lightweight Network Architecture  for Real-Time Action Recognition](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/07.2019Aug/S\)%20Lightweight%20Network%20Architecture%20%20for%20Real\-Time%20Action%20Recognition%20.pptx)|비젼|소영|
 |14|ICLR2019|[Adversarial Neural Trees](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/07.2019Aug/W\)%20Adversarial%20Neural%20Trees.pdf)|NLP|원태|
+|15| |[Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://github.com/BD-SEARCH/Study2019/blob/master/presentation/09\.2020Jun/S\)\%20Few\-Shot\%20Adversarial\%20Learning\%20of\%20Realistic\%20Neural\%20Talking\%20Head\%20Models.pdf)|비젼|소영|
+|16| |[RoBERTa](https://github.com/BD\-SEARCH/Study2019/blob/master/presentation/09\.2020Jun/W\)\%20RoBERTa.pdf)|NLP|원태|
