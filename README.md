@@ -34,6 +34,7 @@
 |1|181116~181214|[AI-NLPchallenge 참가](https://github.com/BD-SEARCH/nsml_NLPchallenge)|자연어처리|
 |2|190101~190122|[AI-VISIONchallenge 참가](https://github.com/BD-SEARCH/nsml_VISIONchallenge)|비전|
 |3|190126~|[코-리안 수능 영어에서는 울프람보다는 똑똑한 AI](https://github.com/BD-SEARCH/CSAT-english)|자연어처리|
+|4|200719~|[논문구현 #1 Variational Autoencoders for Collaborative Filtering](https://github.com/dingdongx2/VAE-CF)|추천시스템|
 
 
 # 정기 발표 
